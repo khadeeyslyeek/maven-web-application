@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.98.122.107:8081/repository/walmart-snapshot/</url>
+	      <url>http://35.183.29.41:333/content/repositories/unionapp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
