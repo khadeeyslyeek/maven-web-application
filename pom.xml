@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:172.31.10.219:9000/</sonar.host.url>
+		<sonar.host.url>http://99.79.73.241:9000/</sonar.host.url>
 		<sonar.login> admin </sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,19 +97,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.98.122.107:8081/repository/walmart-release/</url>
+	      <url>http://99.79.76.110:8081/repository/Paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.183.29.41:333/content/repositories/unionapp/</url>
+	      <url>http://99.79.76.110:8081/repository/Paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>walmart-app</finalName>
+		<finalName>costco-app</finalName>
 		
 		<plugins>
 			<plugin>
