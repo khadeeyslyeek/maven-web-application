@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://99.79.76.110:8081/repository/Paypal-snapshot/</url>
+	      <url>http://99.79.76.110:8081/repository/costco-app/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
